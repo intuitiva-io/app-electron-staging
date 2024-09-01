@@ -1,0 +1,4 @@
+{
+  // configure spell checker english and portuguese brazilian
+  "cSpell.language": "en, pt-br"
+}
