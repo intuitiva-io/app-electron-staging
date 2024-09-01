@@ -5,7 +5,7 @@
 Para instalar o OEE-WEB Intuitiva no Linux, execute o seguinte comando no terminal:
 
 ```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/intuitiva-io/oee-electron/main/install.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/intuitiva-io/app-electron-staging/main/install.sh)"
 ```
 
 ## Instalação no Windows
